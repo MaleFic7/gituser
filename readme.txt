@@ -1,4 +1,2 @@
-The first practice,write a sentence and save it.
-orz
-尝试输入中文
-再次修改
+使用python完成呼吸波形的分析
+移植了matlab程序，输出波形结果与matlab相同
